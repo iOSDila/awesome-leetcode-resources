@@ -1,8 +1,8 @@
-<p align="center">
+r<p align="center">
   <img src="images/leetcode-repo-logo.png" width="350" height="200">
 </p>
 
-<img  src="images/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
 
 This repository contains awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
 
@@ -37,6 +37,12 @@ If you want to practice curated list of LeetCode problems organized by patterns,
 - [Union-Find](https://leetcode.com/discuss/general-discussion/1072418/Disjoint-Set-Union-(DSU)Union-Find-A-Complete-Guide)
 - [Dijkstra Algorithm](https://leetcode.com/discuss/study-guide/1059477/A-guide-to-Dijkstra's-Algorithm)
 - [Minimum Spanning Tree](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/)
+
+
+
+<img  src="images/thoughtworks-gif_dribbble.gif" height="500px" align="center" />
+
+
 
 ## 🚀 Patterns
 - [15 Leetcode Patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
