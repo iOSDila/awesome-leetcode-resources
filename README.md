@@ -100,9 +100,6 @@ If you want to practice curated list of LeetCode problems organized by patterns,
 - [Data Structures And Algorithms Made Easy](https://www.amazon.in/dp/B08CMLS7LZ)
 - [Cracking the Coding Interview](https://www.amazon.in/dp/0984782850)
 
-## 📩 Newsletter
-- [AlgoMaster Newsletter](https://blog.algomaster.io/)
-
 ## 🔎 Visualization
 - [VisuAlgo](https://visualgo.net/en)
 - [Algo-lens: Visualize leetcode problems](https://github.com/jaroslaw-weber/algo-lens)
