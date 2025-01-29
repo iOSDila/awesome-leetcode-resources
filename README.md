@@ -1,4 +1,4 @@
-r<p align="center">
+<p align="center">
   <img src="images/leetcode-repo-logo.png" width="350" height="200">
 </p>
 
