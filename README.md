@@ -2,7 +2,7 @@
   <img src="images/leetcode-repo-logo.png" width="350" height="200">
 </p>
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="center" />
+<img  src="images/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 This repository contains awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
 
